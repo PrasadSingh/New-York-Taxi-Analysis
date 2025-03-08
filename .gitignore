@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Hidden file that contains in mac
+.DS_Store
+
+*.csv
