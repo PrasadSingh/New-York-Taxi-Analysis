@@ -37,6 +37,16 @@ This project focuses on building a **Random Forest Regression model** to predict
 
 ---
 
+
+## 💼 Use Cases  
+Random Forest Regression can be applied in a wide range of real-world scenarios. Here are a couple of practical examples:
+
+- **Real Estate Price Prediction**: Estimate house prices based on features like location, size, number of rooms, and age of the property.  
+- **Predictive Maintenance**: Forecast the remaining useful life of equipment or machinery using sensor and performance data.
+
+---
+
+
 ## 🔍 Future Improvements  
 - Fine-tuning hyperparameters using advanced search techniques like **Bayesian Optimization**.  
 - Experimenting with different feature selection methods to enhance model performance.  
